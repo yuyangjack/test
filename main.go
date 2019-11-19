@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println(brokerEntrySeemsValid("baas-e9bacc70a000102-kafka0:9092"))
+	fmt.Println(brokerEntrySeemsValid("baas-dfdsdfsfs-aaa:9911"))
 }
 
 // This does just a barebones sanity check.
